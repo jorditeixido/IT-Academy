@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C# Exercici4 Restaurants</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="csharpExercici4Restaurants.js"></script>
+    <script src="funcionsFWJordi.js"></script>
+</head>
+<body onload="OmplirMenu();imprimir('menu',Menu());">
+    <div class="container">
+        <div class="row">
+          <div class="col-sm-6 center">
+            <p id='inici'><button type='button' class='center btn btn-primary btn-lg' onclick="Main();">Demanar Plats</button></p>
+            <p id='inici'><button type='button' class='center btn btn-primary btn-lg' onclick="Reset();">Cancel·lar Comanda</button></p>
+            <p id='menu' class='center'></p>
+            <p id='comanda'></p>
+          </div>
+        </div>
+    </div>   
+</body>
+</html>
+
