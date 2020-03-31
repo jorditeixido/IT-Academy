@@ -1,0 +1,11 @@
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\obj\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.csprojAssemblyReference.cache
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\obj\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.AssemblyInfoInputs.cache
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\obj\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.AssemblyInfo.cs
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\bin\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.exe
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\bin\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.deps.json
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\bin\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.runtimeconfig.json
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\bin\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.runtimeconfig.dev.json
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\bin\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.dll
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\bin\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.pdb
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\obj\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.dll
+D:\Dropbox\1 Jordi Teixidó\5 FORMACION\2020 IT Academy\C-Sharp\Exercici-2-CSharp\Fase-4\CSharp-Excercici2-Fase4\obj\Debug\netcoreapp3.1\CSharp-Excercici2-Fase4.pdb
